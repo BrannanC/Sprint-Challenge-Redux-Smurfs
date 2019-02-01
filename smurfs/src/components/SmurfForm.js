@@ -30,7 +30,8 @@ class SmurfForm extends React.Component {
         this.setState({
             name: '',
             age: '',
-            email: ''
+            height: '',
+            displayForm: false
         })
     }
 
